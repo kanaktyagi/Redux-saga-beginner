@@ -1,5 +1,6 @@
 const initialState = {
-    age:20
+    age:20,
+    sample: 'true'
 };
 
 const reducer = (state=initialState, action) => {
